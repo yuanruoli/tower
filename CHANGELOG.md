@@ -22,7 +22,7 @@ The format is based on [keep a Changelog](https://keepachangelog.com/en/1.0.0)
 
 -Health system is built, too. Originally 10 point of health, One Dragon gets in cost 1 point of health.[-health.h]
 
-##[2.0.0]2020-6-28
+## [2.0.0]2020-6-28
 ### Added
 -new bullet type is available now.[-bullet2,sbullet]
 
@@ -47,4 +47,4 @@ The format is based on [keep a Changelog](https://keepachangelog.com/en/1.0.0)
 
 
 
-up to now all the project is finished.
+### up to now all the project is finished.
